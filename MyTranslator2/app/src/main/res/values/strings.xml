@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTranslator</string>
+    <string-array name="languages">
+        <item>GERMAN</item>
+        <item>FRENCH</item>
+        <item>ITALIAN</item>
+    </string-array>
+</resources>
